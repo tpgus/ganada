@@ -1,5 +1,5 @@
 ## 가나다를 소개합니다!:sparkles:
-### :zap:[가나다 위키 바로가기](https://github.com/codestates/ganada/wiki)
+### :zap:[가나다 위키 바로가기](https://github.com/tpgus/ganada/wiki)
 
 ![image](https://user-images.githubusercontent.com/75208878/164990745-70bc08ee-d7a7-472e-be1e-dc8e5db4849f.png)
 
@@ -92,4 +92,4 @@ MZ 세대뿐만 아니라 자신을 사랑하고 아끼는 사람들은 사진�
 
 <br/>
 
-### :zap:[가나다 위키 바로가기](https://github.com/codestates/ganada/wiki)
+### :zap:[가나다 위키 바로가기](https://github.com/tpgus/ganada/wiki)
